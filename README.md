@@ -28,4 +28,4 @@ Note: This repository includes the [postman collection for the finished API](pos
 ## Build this Project
 - If you don't have Yarn, follow the instructions [https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable]
 - Run `yarn install` for install node modules.
-- Run `yarn run dev` for a dev server at port 1345.
+- Run `yarn run dev` for a dev server at port 1337.
