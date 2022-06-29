@@ -24,3 +24,9 @@ Note: This repository includes the [postman collection for the finished API](pos
 * MongoDB with Mongoose
 * TypeScript
 * Express.js & Express.js middleware
+
+## Build this Project
+- If you don't have Yarn, follow the instructions [https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable]
+- Run `yarn install` for install node modules.
+- If you don't have Nodemon, follow the instructions [https://www.npmjs.com/package/nodemon] 
+- Run `yarn run dev` for a dev server at port 1345.
