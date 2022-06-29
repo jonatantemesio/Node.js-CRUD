@@ -4,7 +4,6 @@
   "description": "CRUD Node Js + TypeScript + Express + Mongodb",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.ts",
     "dev": "nodemon --config nodemon.json src/app.ts"
   },
   "repository": {
